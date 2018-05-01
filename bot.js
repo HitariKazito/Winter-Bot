@@ -95,4 +95,4 @@ async def on_message(message):
     
                 
             
-bot.run(process.env.BOT_TOKEN);
+bot.run(process.env."NDQwODE5NDA2MzU2ODczMjE2.Dcnl4g.-LvlNmE9MBFwdrhiGs1qtUCeJaA");
