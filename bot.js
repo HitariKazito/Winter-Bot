@@ -6,6 +6,8 @@ from discord.voice_client import VoiceClient
 import asyncio
 import chalk
 import time
+const Discord = require('discord.js');
+const client = new Discord.Client();
 
 
 startup_extensions = ["Music"]
