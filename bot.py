@@ -6,9 +6,7 @@ from discord.voice_client import VoiceClient
 import asyncio
 import chalk
 import time
-import os
 
-api = str(os.environ.get('RIOT_KEY'))
 startup_extensions = ["Music"]
 bot = commands.Bot("!")
 
