@@ -95,4 +95,4 @@ async def on_message(message):
     
                 
             
-bot.run(str(os.environ.get('BOT_TOKEN')))
+bot.login(process.env.BOT_TOKEN);
