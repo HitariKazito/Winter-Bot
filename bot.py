@@ -7,6 +7,7 @@ import asyncio
 import chalk
 import time
 
+
 startup_extensions = ["Music"]
 bot = commands.Bot("!")
 
